@@ -4,7 +4,7 @@
 - 联系方式：188-1054-2852
 - 电子邮箱：wangliangfei4585@163.com
 - 个人博客： [https://feiyunruyue.github.io](https://feiyunruyue.github.io)
-- GitHub: [https://github.com/feiyunruyue](https://github.com/feiyunruyue)
+- GitHub :  [https://github.com/feiyunruyue](https://github.com/feiyunruyue)
 
 ### 教育背景
 ------
@@ -20,7 +20,7 @@
    - 熟悉Java Web开发，熟悉Spring、Struts2、Spring MVC、Hibernate等框架
    - 熟悉HTTP协议，理解REST架构
    - 熟悉MySQL、Oracle、SQLite、Redis等数据库
-   - 熟练使用Git、SVN、Vim、Eclipse等工具
+   - 熟练使用Git、SVN、Vim、Eclipse、Sublime Text等工具
    - 熟悉Linux常用命令
 - 了解
  - Python、Go
@@ -30,14 +30,13 @@
 
 ### 工作经历
 -------
-**企业网银， 中国工商银行软件开发中心， 2014.04 –**
+**企业网银， 中国工商银行软件开发中心， 2014.04 – 至今**
 
-- 学习网银开发基础知识，包括技术知识和业务知识
-- 银行承兑票据
-- 即期结售汇、远期结售汇、掉期结售汇
-- 为手机银行提供接口
-- “账户管家改造项目”中的“B2B商城退货”模块
-- “线上线下一体化”项目中的“主动推送”模块
+- 学习网银开发技术和相关业务知识，学习公钥密码体制等信息安全背景知识
+- 参与“银行承兑票据”项目翻页查询
+- 参与“账户管家改造项目”中的“B2B商城退货”模块
+- 负责“线上线下一体化”项目中的“主动推送”模块
+- 负责外汇买卖即期结售汇、远期结售汇、掉期结售汇中的询价单撤销功能
 
 ### 实习经历
 --------
@@ -57,7 +56,7 @@
 
 - **Web聊天室， 北京邮电大学， 2012.12 - 2013.01**  
 
-  - 利用Node.js和Html5 WebSocket 搭建了简单的web聊天室，使用Express 框架和 ws 库，代码托管在github上。项目地址及使用方法见[https://github.com/feiyunruyue/chat-websocket](https://github.com/feiyunruyue/chat-websocket)  
+  - 利用Node.js和Html5 WebSocket 搭建了简单的web聊天室，使用Express 框架和 ws 北京邮电大学第七届ACM程序设计大赛铜奖。项目地址及使用方法见[https://github.com/feiyunruyue/chat-websocket](https://github.com/feiyunruyue/chat-websocket)。  
 
 - **“我和你”Android 通话记录统计软件， 北京邮电大学， 2012.10 - 2012.11**  
 
@@ -71,4 +70,4 @@
 
 ### 英文水平
 ------
-  英语六级
+  六级
