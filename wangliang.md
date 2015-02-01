@@ -56,7 +56,7 @@
 
 - **Web聊天室， 北京邮电大学， 2012.12 - 2013.01**  
 
-  - 利用Node.js和Html5 WebSocket 搭建了简单的web聊天室，使用Express 框架和 ws 北京邮电大学第七届ACM程序设计大赛铜奖。项目地址及使用方法见[https://github.com/feiyunruyue/chat-websocket](https://github.com/feiyunruyue/chat-websocket)。  
+  - 利用Node.js和Html5 WebSocket 搭建了简单的web聊天室，使用Express 框架和 ws。项目地址及使用方法见[https://github.com/feiyunruyue/chat-websocket](https://github.com/feiyunruyue/chat-websocket)。  
 
 - **“我和你”Android 通话记录统计软件， 北京邮电大学， 2012.10 - 2012.11**  
 
