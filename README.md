@@ -5,6 +5,7 @@
 - 电子邮箱：wangliangfei4585@163.com
 - 个人博客： [https://feiyunruyue.github.io](https://feiyunruyue.github.io)
 - GitHub    ： [https://github.com/feiyunruyue](https://github.com/feiyunruyue)
+
 ### 教育背景
 ------
 - 2011.09 - 2014.04， 硕士，北京邮电大学， 计算机科学与技术
