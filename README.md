@@ -2,7 +2,7 @@
 -----
 - 出生日期：1989年1月22日                   
 - 联系方式：188-1054-2852
-- 电子邮箱：wangliangfei4585@163.com
+- 电子邮箱： wangliangfei4585@163.com
 - 个人博客： [https://feiyunruyue.github.io](https://feiyunruyue.github.io)
 - GitHub    ： [https://github.com/feiyunruyue](https://github.com/feiyunruyue)
 
