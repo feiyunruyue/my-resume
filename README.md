@@ -1,10 +1,10 @@
-#王亮
+# 王亮
 -----
 - 出生日期：1989年1月22日                   
 - 联系方式：188-1054-2852
-- 电子邮箱： wangliangfei4585@163.com
-- 个人博客： [https://feiyunruyue.github.io](https://feiyunruyue.github.io)
-- GitHub    ： [https://github.com/feiyunruyue](https://github.com/feiyunruyue)
+- 电子邮箱：wangliangfei4585@163.com
+- 个人博客：[https://feiyunruyue.github.io](https://feiyunruyue.github.io)
+- GitHub：[https://github.com/feiyunruyue](https://github.com/feiyunruyue)
 
 ### 教育背景
 ------
@@ -13,33 +13,23 @@
 
 ### 专业技能
 ------
-   - 熟悉Java和C，了解Node.js、Python
-   - 熟悉Java Web开发，熟悉spring、struts2、hibernate框架，熟悉HTTP协议，理解REST架构
-   - 熟悉Android开发，研究生期间曾获中国移动举办的应用开发大赛校园类三等奖
-   - 熟悉MySQL、Oracle、Redis等数据库，阅读过Redis数据库底层源代码
-   - 熟悉Linux常用命令，熟练使用Git、Svn、Vim等工具
-   - 了解Java虚拟机相关知识
-   - 了解Java爬虫相关技术
+   - Java基础扎实，熟悉网络编程，熟悉多线程编程，了解jvm原理
+   - 熟悉spring、mybatis、spring boot等常见开源框架
+   - 熟悉dubbo、zookeeper、redis、mq、netty等技术
+   - 熟悉mysql数据库，对sql优化有一定经验
+   - 熟悉linux常用命令，熟练使用idea、git、svn、maven等工具
+   - 了解规则引擎Drools
+   - 了解node.js、vue等前端技术
 
 ### 工作经历
 -------
-**企业网银、企业手机开发， 中国工商银行软件开发中心， 2014.04 – 至今**
+**企业网银后台开发， 中国工商银行软件开发中心， 2014.04 – 2016.05**
 
 - 使用Java 、Oracle、jquery等技术开发企业网银后台以及前端页面，负责外汇买卖即期结售汇、远期结售汇、掉期结售汇等功能。
 - 维护电子票据业务，负责解决分行对公客户提出的生产问题。
-- 重构主机推送公共程序，将每期新增代码从公共代码中分离，减少了对公共程序的修改。并编写了测试模块，将获取的socket字节流转化为具有实际意义的表结构字段，便于开发排错。
-- 负责企业手机银行小微企业账户绑定功能。
-- 研究企业手机银行Android客户端免U盾登录，解决了U盾资源不足的问题。让开发人员不需要真正的音频U盾就可以登录手机银行进行开发。
-- 利用正则表达式编写Java脚本，提取接口文档中的字段，避免了开发过程中不停地复制粘贴。已在小组内部得到广泛使用。
 
-### 实习经历
---------
- **移动云测试部QA， 百度， 2013.07 – 2014.04**
+**简理财后台开发， 简理财， 2016.05 – 至今**
 
-- 独立负责“数据中心”项目中的后台部分，利用spring和MySQL开发REST风格的java服务
-- 在Ubuntu上利用Node.js搭建图片上传服务，供自己和其他同事上传Android屏幕截图。
-- 日常负责百度浏览器WebKit内核测试，编写自动化测试脚本，并在Jenkins上进行持续集成测试
-
-### 英语水平
------------
-六级
+- 负责简理财第二代、第三代计息系统设计与实现
+- 负责简理财用户、买入交易、运营活动系统
+- 带领团队完整上线新产品众邦宝
